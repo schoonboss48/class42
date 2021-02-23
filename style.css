@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+}
+/** {
+    border: solid
+}*/
+.header {
+    background-color: lime;
+    display: flex;
+    justify-content: space-between;
+}
+.grid {
+    background-color: steelblue ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer {
+    background-color: orchid;
+    display: flex;
+    justify-content: flex-end;
+}
+.description {
+    background-color: mistyrose;
+    text-align: center;
+}
